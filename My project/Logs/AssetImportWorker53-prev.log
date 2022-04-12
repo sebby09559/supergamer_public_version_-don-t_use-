@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'en' Physical Memory: 6099 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker53
+-projectPath
+C:/Users/Dean/Desktop/seb's stuff/github/supergamer/My project
+-logFile
+Logs/AssetImportWorker53.log
+-srvPort
+55256
+Successfully changed project path to: C:/Users/Dean/Desktop/seb's stuff/github/supergamer/My project
+C:/Users/Dean/Desktop/seb's stuff/github/supergamer/My project
+Using Asset Import Pipeline V2.
